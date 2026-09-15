@@ -179,6 +179,7 @@ Weather_AQI_Project/
 │   └── page4_historical_analysis.png
 │
 ├── .gitignore
+├── requirements.txt
 └── README.md
 ```
 
@@ -209,5 +210,4 @@ Run the Python scripts in the `python/` folder, perform the SQL analysis, and co
 Aspiring Data Analyst
 
 **Skills:** Python | SQL | MySQL | Power BI | DAX | Pandas | Data Analysis | Data Visualization
-
 ````
